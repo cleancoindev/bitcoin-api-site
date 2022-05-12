@@ -27,7 +27,7 @@
     "highlight.js": "^10.4.1",
     "lodash": "^4.17.20",
     "memoizee": "^0.4.14",
-    "mongoose": "^5.10.11",
+    "mongoose": "^5.13.14",
     "nanoid": "^2.1.11",
     "nuxt": "^2.14.5",
     "qrcode": "^1.4.4",
